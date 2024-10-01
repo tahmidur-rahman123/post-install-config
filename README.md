@@ -33,7 +33,9 @@ This page outlines the post-install configuration of the open-source help desk t
 </p>
 <p>
 Configure Roles
-  Roles are permissions granted to agents. Every employee has a set of permissions and tasks that they have access to. It is important so that only the right people have access to do certain tasks.
+  
+Roles are permissions granted to agents. Every employee has a set of permissions and tasks that they have access to. It is important so that only the right people have access to do certain tasks.
+
 https://docs.osticket.com/en/latest/Admin/Agents/Roles.html
   
 </p>
@@ -45,7 +47,8 @@ https://docs.osticket.com/en/latest/Admin/Agents/Roles.html
 <p>
 
 Configure Departments
-  Departments are needed for organization. Certain groups will be put in certain departments and certain departments will have certain tasks assigned to them. Some tasks need certain expertise to solve and that is where departments come in play.
+
+Departments are needed for organization. Certain groups will be put in certain departments and certain departments will have certain tasks assigned to them. Some tasks need certain expertise to solve and that is where departments come in play.
   
 https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 
