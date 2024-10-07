@@ -29,7 +29,14 @@ This page outlines the post-install configuration of the open-source help desk t
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Roles Pic](https://github.com/user-attachments/assets/30bac426-92c6-457c-98ea-06521c8edbe7)
+
+<p>
+  
+![osTicket Roles Pic 2](https://github.com/user-attachments/assets/520e18bd-2813-49fc-8d83-4524961cee19)
+  
+</p>
 </p>
 <p>
 Configure Roles
@@ -42,7 +49,9 @@ https://docs.osticket.com/en/latest/Admin/Agents/Roles.html
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Departments Pic](https://github.com/user-attachments/assets/162942f2-6258-4f9b-bc98-38a7b45b369b)
+
 </p>
 <p>
 
@@ -56,7 +65,9 @@ https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Teams Pic](https://github.com/user-attachments/assets/6a23351b-2b4c-45ab-8f66-e09448883ecd)
+  
 </p>
 <p>
 
@@ -70,7 +81,9 @@ https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Agents Pic](https://github.com/user-attachments/assets/04e29408-8a7f-46c4-ac79-3d2b959037e9)
+  
 </p>
 <p>
 
@@ -84,7 +97,9 @@ https://docs.osticket.com/en/latest/Admin/Agents/Agents.html
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket Users Pic](https://github.com/user-attachments/assets/313cdb52-b206-481d-b87d-03f64a7ad752)
+  
 </p>
 <p>
 Configure Users
@@ -97,7 +112,9 @@ https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicket SLA Pic](https://github.com/user-attachments/assets/91811de2-b99e-46a9-bb17-bf3923973ee8)
+  
 </p>
 <p>
 
@@ -107,5 +124,20 @@ SLA's or Service Level Agreements is like a set of guidelines for time managemen
 
 https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
 
+</p>
+<br />
+
+<p>
+  
+![osTicket Help Topics](https://github.com/user-attachments/assets/952e9d0f-e058-4bde-9467-362c40570536)
+  
+</p>
+<p>
+Help Topics
+
+Help Topics will determine what Department the ticket is routed to, which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low. 
+
+Help Topics help stream line the process and make it easier for the user and agents
+https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html
 </p>
 <br />
